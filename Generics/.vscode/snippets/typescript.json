@@ -1,0 +1,14 @@
+{
+    "newTest": {
+      "prefix": "newTest",
+      "body": [
+        "newTest({",
+        "\ttitle: \"${1}\",",
+        "\tstart: \"${2}\",",
+        "\tkeyPressed: \"${3}\",",
+        "\tend: \"${4}\"",
+        "});"
+      ],
+      "description": "Create a new test"
+    }
+  }
